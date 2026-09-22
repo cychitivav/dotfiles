@@ -7,7 +7,6 @@ font-family = "Fira Code"
 background-opacity = 0.85
 background-blur = true
 
-window-padding-x = 0
 window-padding-y = 0
 window-padding-balance = true
 
