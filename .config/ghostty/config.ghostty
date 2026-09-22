@@ -1,6 +1,13 @@
-theme = dark:"Adwaita Dark", light:"Adwaita"
 term = xterm-256color
+
+theme = dark:"Adwaita Dark", light:"Adwaita"
+
 font-family = "Fira Code"
+
 background-opacity = 0.85
 background-blur = true
+
+window-padding-x = 0
+window-padding-y = 0
+
 shell-integration-features = sudo,no-ssh-terminfo,ssh-env
